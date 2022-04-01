@@ -11,6 +11,6 @@
             <Font size="24.0" />
          </font>
       </Button>
-
+      <TextField fx:id="txtLicznik" layoutX="233.0" layoutY="79.0" prefHeight="25.0" prefWidth="258.0" />
    </children>
 </AnchorPane>
